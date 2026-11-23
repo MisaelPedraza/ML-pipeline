@@ -1,0 +1,18 @@
+# Local datasets and generated artifacts
+/data/
+/models/
+/reports/
+/recomendaciones_danustore_svd_80_20.xlsx
+
+# Personal and unrelated binaries
+/CVenglish.pdf
+*.exe
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
